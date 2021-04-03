@@ -12,4 +12,7 @@ copy vimrc
 
 
 ### reference
+doc
 https://github.com/theniceboy/vimrc-example/blob/master/vimrc
+video
+https://www.bilibili.com/video/BV1e4411V7AA
